@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1451046151 source:c:\erikprogram\saxs_align_console\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<cmath>
+
